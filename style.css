@@ -1,0 +1,203 @@
+* {
+    background-color: burlywood;
+}
+.calculator-screen {
+    height: 40px;
+    width: 140px;
+    background-color: gray;
+    position: absolute;
+    top: 10px;
+    left: 7.5px;
+    overflow-wrap: break-word;
+}
+.calculator-body {
+    height: 180px;
+    width: 155px;
+    background-color: black;
+    position: absolute;
+    left: 550px;
+    top: 150px;
+}
+.button-decimal {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 5px;
+    left: 35px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-clear {
+        height: 25px;
+        width: 25px;
+        background-color: white;
+        position: absolute;
+        bottom: 5px;
+        left: 65px;
+        text-align: center;
+        font-size: 85%;
+}
+.button-0 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-1 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 35px;
+    left: 5px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-2 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 35px;
+    left: 35px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-3 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 35px;
+    left: 65px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-4 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 5px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-5 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 35px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-6 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 65px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-7 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 95px;
+    left: 5px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-8 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 95px;
+    left: 35px;
+    text-align: center;
+    font-size: 115%;
+}
+.button-9 {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 95px;
+    left: 65px;
+    text-align: center;
+    font-size: 115%
+}
+.button-addition {
+        height: 55px;
+        width: 25px;
+        background-color: white;
+        position: absolute;
+        bottom: 5px;
+        left: 95px;
+        text-align: center;
+        font-size: 85%;
+}
+.button-multiplication {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 95px;
+    text-align: center;
+    font-size: 85%;
+}
+.button-division {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 95px;
+    left: 95px;
+    text-align: center;
+    font-size: 85%;
+}
+.button-on {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 95px;
+    left: 125px;
+    text-align: center;
+    font-size: 50%;
+}
+.button-subtraction {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 125px;
+    text-align: center;
+    font-size: 85%;
+}
+.button-equals {
+    height: 55px;
+    width: 25px;
+    background-color: white;
+    position: absolute;
+    bottom: 5px;
+    left: 125px;
+    text-align: center;
+    font-size: 85%;
+}
+.Green {
+    background-color: green;
+}
